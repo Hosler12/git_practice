@@ -1,2 +1,4 @@
 This is the beginning of my mediocre story.
 By Robert Hosler
+
+This is the new ending of the story.
